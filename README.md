@@ -1,2 +1,2 @@
 # Rest
-Simple booking service for hotels and restaurants
+Simple java booking service for hotels and restaurants
